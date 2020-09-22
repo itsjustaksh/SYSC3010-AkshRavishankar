@@ -36,6 +36,7 @@ while True:
         if event.action != "released":
             showFirstInitial()
             showLastInitial()
+            turnOff()
 
 
 
